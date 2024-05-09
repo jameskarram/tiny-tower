@@ -1,0 +1,23 @@
+{
+    "floors": [
+        {
+            "occupancy": 3,
+            "name": "apartments",
+            "floorType": "RESIDENTIAL",
+            "floorNum": 1
+        },
+        {
+            "occupancy": 1,
+            "name": "sushi",
+            "floorType": "COMMERCIAL",
+            "floorNum": 2
+        },
+        {
+            "occupancy": 1,
+            "name": "yoga",
+            "floorType": "RECREATION",
+            "floorNum": 3
+        }
+    ],
+    "name": "My tower"
+}

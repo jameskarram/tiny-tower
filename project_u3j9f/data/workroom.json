@@ -1,0 +1,29 @@
+{
+    "floors": [
+        {
+            "occupancy": 0,
+            "name": "Apartments",
+            "floorType": "RESIDENTIAL",
+            "floorNum": 1
+        },
+        {
+            "occupancy": 0,
+            "name": "Sushi Restaurant",
+            "floorType": "COMMERCIAL",
+            "floorNum": 2
+        },
+        {
+            "occupancy": 0,
+            "name": "Condos",
+            "floorType": "RESIDENTIAL",
+            "floorNum": 3
+        },
+        {
+            "occupancy": 0,
+            "name": "Chinese Restaurant",
+            "floorType": "COMMERCIAL",
+            "floorNum": 4
+        }
+    ],
+    "name": "Test Tower"
+}
